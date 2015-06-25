@@ -19,7 +19,8 @@ class Person:
 		self.email = email
 		self.pnum = pnum
 
-#Global functions
+
+##Global functions
 
 #Prints the menu
 def print_menu():
