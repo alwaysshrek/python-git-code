@@ -58,9 +58,3 @@ while not url.endswith('#'):
 
 #All image files have been downloaded.
 print('Done.')
-
-
-
-
-
-
