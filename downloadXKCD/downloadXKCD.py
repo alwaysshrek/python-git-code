@@ -1,5 +1,9 @@
 #!/usr/local/bin/python3
 
+"""
+Downloads all the XKCD comics - ignores the invalid ones
+"""
+
 # requests is needed for importing the content from the webpages, os for OS specific modules and bs4 for parsing the pages
 import requests, os, bs4
 

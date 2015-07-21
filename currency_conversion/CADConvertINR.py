@@ -1,5 +1,9 @@
 #!/usr/local/bin/python3
 
+"""
+Script to get the current conversion from CAD to INR from xe.com
+"""
+
 # requests is needed for importing the content from the webpage and bs4 for parsing it
 import requests, bs4
 
